@@ -29,7 +29,7 @@
 | **Interpretability** | Grad-CAM implemented from scratch with `tf.GradientTape` (no explanation library) |
 | **Benchmark** | A fine-tuned ImageNet EfficientNetB0 (4.06M params) scores higher overall (90.10%), but my 3.1× smaller model has **better glacier recall (0.748 vs 0.689)** |
 
-> University coursework (CSC60904 Deep Learning, Taylor's University, April 2026), individual assignment. I'm a third-year CS student and still learning; feedback is welcome.
+
 
 ## Pipeline engineering
 
